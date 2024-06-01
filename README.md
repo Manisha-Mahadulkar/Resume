@@ -92,3 +92,134 @@
 </html>
 </body>
 </html>
+
+[Uploadibody {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12px;
+    max-width: 960px;
+    height: 100%;
+    margin: auto;
+    border: 5px solid #000;
+
+}
+h1 {
+    font-size: 3em;
+    letter-spacing: .6em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+}
+
+h3 {
+    font-size: 1em;
+    padding-bottom: 1em;
+}
+
+
+    main { 
+        display: grid;
+        grid-template-columns: 40% 60%;
+        margin-top: 3em;
+    }
+    
+header {
+    text-align: center;
+    margin: auto 2em;
+}
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+header {
+    text-align: center;
+    margin: auto 2em;
+}
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+#mainLeft {
+    border-right: 1px solid lightgray;
+}
+.footer{
+    background-color: #0c0d0e;
+    color: #fff;
+    padding: 40px;
+    width: 880px;
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 120px;
+    margin: 10px auto;
+}
+.container-info{
+    flex: 1;
+    padding:20px;
+}
+.container-info h2{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.container-info p{
+    margin-bottom: 40px;
+    line-height: 1.5;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.social-icons a img{
+    width: 40px;
+    height: 40px;
+
+}
+ng style.css…]()
